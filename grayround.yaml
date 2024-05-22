@@ -18,7 +18,7 @@ spec:
         app: grayround
     spec:
       containers:
-      - image: choisunhong5717/grayround:v1.0
+      - image: choisunhong5717/grayround:1.0
         name: grayround
         ports:
         - containerPort: 80
